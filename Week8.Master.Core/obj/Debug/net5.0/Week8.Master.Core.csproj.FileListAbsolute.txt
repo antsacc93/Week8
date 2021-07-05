@@ -1,0 +1,12 @@
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.Core\bin\Debug\net5.0\Week8.Master.Core.deps.json
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.Core\bin\Debug\net5.0\Week8.Master.Core.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.Core\bin\Debug\net5.0\ref\Week8.Master.Core.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.Core\bin\Debug\net5.0\Week8.Master.Core.pdb
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.Core\obj\Debug\net5.0\Week8.Master.Core.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.Core\obj\Debug\net5.0\Week8.Master.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.Core\obj\Debug\net5.0\Week8.Master.Core.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.Core\obj\Debug\net5.0\Week8.Master.Core.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.Core\obj\Debug\net5.0\Week8.Master.Core.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.Core\obj\Debug\net5.0\Week8.Master.Core.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.Core\obj\Debug\net5.0\ref\Week8.Master.Core.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.Core\obj\Debug\net5.0\Week8.Master.Core.pdb

@@ -1,0 +1,15 @@
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.RepositoryMock\bin\Debug\net5.0\Week8.Master.RepositoryMock.deps.json
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.RepositoryMock\bin\Debug\net5.0\Week8.Master.RepositoryMock.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.RepositoryMock\bin\Debug\net5.0\ref\Week8.Master.RepositoryMock.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.RepositoryMock\bin\Debug\net5.0\Week8.Master.RepositoryMock.pdb
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.RepositoryMock\bin\Debug\net5.0\Week8.Master.Core.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.RepositoryMock\bin\Debug\net5.0\Week8.Master.Core.pdb
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.RepositoryMock\obj\Debug\net5.0\Week8.Master.RepositoryMock.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.RepositoryMock\obj\Debug\net5.0\Week8.Master.RepositoryMock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.RepositoryMock\obj\Debug\net5.0\Week8.Master.RepositoryMock.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.RepositoryMock\obj\Debug\net5.0\Week8.Master.RepositoryMock.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.RepositoryMock\obj\Debug\net5.0\Week8.Master.RepositoryMock.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.RepositoryMock\obj\Debug\net5.0\Week8.Master.RepositoryMock.csproj.CopyComplete
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.RepositoryMock\obj\Debug\net5.0\Week8.Master.RepositoryMock.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.RepositoryMock\obj\Debug\net5.0\ref\Week8.Master.RepositoryMock.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.Master\Week8.Master.RepositoryMock\obj\Debug\net5.0\Week8.Master.RepositoryMock.pdb
