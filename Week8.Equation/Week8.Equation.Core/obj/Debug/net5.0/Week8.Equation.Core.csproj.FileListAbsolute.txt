@@ -1,0 +1,12 @@
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation.Core\bin\Debug\net5.0\Week8.Equation.Core.deps.json
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation.Core\bin\Debug\net5.0\Week8.Equation.Core.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation.Core\bin\Debug\net5.0\ref\Week8.Equation.Core.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation.Core\bin\Debug\net5.0\Week8.Equation.Core.pdb
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation.Core\obj\Debug\net5.0\Week8.Equation.Core.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation.Core\obj\Debug\net5.0\Week8.Equation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation.Core\obj\Debug\net5.0\Week8.Equation.Core.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation.Core\obj\Debug\net5.0\Week8.Equation.Core.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation.Core\obj\Debug\net5.0\Week8.Equation.Core.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation.Core\obj\Debug\net5.0\Week8.Equation.Core.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation.Core\obj\Debug\net5.0\ref\Week8.Equation.Core.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation.Core\obj\Debug\net5.0\Week8.Equation.Core.pdb

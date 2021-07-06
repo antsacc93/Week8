@@ -1,0 +1,16 @@
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation\bin\Debug\net5.0\Week8.Equation.exe
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation\bin\Debug\net5.0\Week8.Equation.deps.json
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation\bin\Debug\net5.0\Week8.Equation.runtimeconfig.json
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation\bin\Debug\net5.0\Week8.Equation.runtimeconfig.dev.json
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation\bin\Debug\net5.0\Week8.Equation.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation\bin\Debug\net5.0\ref\Week8.Equation.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation\bin\Debug\net5.0\Week8.Equation.pdb
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation\obj\Debug\net5.0\Week8.Equation.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation\obj\Debug\net5.0\Week8.Equation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation\obj\Debug\net5.0\Week8.Equation.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation\obj\Debug\net5.0\Week8.Equation.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation\obj\Debug\net5.0\Week8.Equation.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation\obj\Debug\net5.0\Week8.Equation.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation\obj\Debug\net5.0\ref\Week8.Equation.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation\obj\Debug\net5.0\Week8.Equation.pdb
+C:\Users\AntoniaSacchitella\source\repos\Week8.Equation\Week8.Equation\obj\Debug\net5.0\Week8.Equation.genruntimeconfig.cache
