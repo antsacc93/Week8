@@ -1,0 +1,12 @@
+C:\Users\AntoniaSacchitella\source\repos\Week8.CalculatorWinForm\Week8.CalculatorWinForm.Core\bin\Debug\net5.0\Week8.CalculatorWinForm.Core.deps.json
+C:\Users\AntoniaSacchitella\source\repos\Week8.CalculatorWinForm\Week8.CalculatorWinForm.Core\bin\Debug\net5.0\Week8.CalculatorWinForm.Core.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.CalculatorWinForm\Week8.CalculatorWinForm.Core\bin\Debug\net5.0\ref\Week8.CalculatorWinForm.Core.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.CalculatorWinForm\Week8.CalculatorWinForm.Core\bin\Debug\net5.0\Week8.CalculatorWinForm.Core.pdb
+C:\Users\AntoniaSacchitella\source\repos\Week8.CalculatorWinForm\Week8.CalculatorWinForm.Core\obj\Debug\net5.0\Week8.CalculatorWinForm.Core.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\source\repos\Week8.CalculatorWinForm\Week8.CalculatorWinForm.Core\obj\Debug\net5.0\Week8.CalculatorWinForm.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\source\repos\Week8.CalculatorWinForm\Week8.CalculatorWinForm.Core\obj\Debug\net5.0\Week8.CalculatorWinForm.Core.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\source\repos\Week8.CalculatorWinForm\Week8.CalculatorWinForm.Core\obj\Debug\net5.0\Week8.CalculatorWinForm.Core.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\source\repos\Week8.CalculatorWinForm\Week8.CalculatorWinForm.Core\obj\Debug\net5.0\Week8.CalculatorWinForm.Core.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\source\repos\Week8.CalculatorWinForm\Week8.CalculatorWinForm.Core\obj\Debug\net5.0\Week8.CalculatorWinForm.Core.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.CalculatorWinForm\Week8.CalculatorWinForm.Core\obj\Debug\net5.0\ref\Week8.CalculatorWinForm.Core.dll
+C:\Users\AntoniaSacchitella\source\repos\Week8.CalculatorWinForm\Week8.CalculatorWinForm.Core\obj\Debug\net5.0\Week8.CalculatorWinForm.Core.pdb
