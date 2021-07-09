@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uBsQsxpFbAoZ+SQyt/pv0NojnK2g9PNVfiZmmktqgd2D+h41tB3MWteFWdEr+VZyyj1gA/mbm4jmtq7qnWwiUg==",
+  "dgSpecHash": "afCjG+EttZSAJXRj8pUgOYLtQRAYa09/ID8YKvyG6na+YOnx7KrfOZmnS4PG4jIYx3cgpNN4nApTGz+HwcRVxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Equation\\Week8.Equation.Test\\Week8.Equation.Test.csproj",
+  "projectFilePath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation.Test\\Week8.Equation.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AntoniaSacchitella\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\AntoniaSacchitella\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

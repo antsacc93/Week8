@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation.Core\\Week8.Equation.Core.csproj",
-      "projectName": "Week8.Equation.Core",
-      "projectPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation.Core\\Week8.Equation.Core.csproj",
+      "projectUniqueName": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\FinalFantasy\\FinalFantasy.Core\\FinalFantasy.Core.csproj",
+      "projectName": "FinalFantasy.Core",
+      "projectPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\FinalFantasy\\FinalFantasy.Core\\FinalFantasy.Core.csproj",
       "packagesPath": "C:\\Users\\AntoniaSacchitella\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation.Core\\obj\\",
+      "outputPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\FinalFantasy\\FinalFantasy.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AntoniaSacchitella\\AppData\\Roaming\\NuGet\\NuGet.Config",

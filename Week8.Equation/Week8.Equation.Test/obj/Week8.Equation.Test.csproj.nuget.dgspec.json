@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Equation\\Week8.Equation.Test\\Week8.Equation.Test.csproj": {}
+    "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation.Test\\Week8.Equation.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Equation\\Week8.Equation.Core\\Week8.Equation.Core.csproj": {
+    "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation.Core\\Week8.Equation.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Equation\\Week8.Equation.Core\\Week8.Equation.Core.csproj",
+        "projectUniqueName": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation.Core\\Week8.Equation.Core.csproj",
         "projectName": "Week8.Equation.Core",
-        "projectPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Equation\\Week8.Equation.Core\\Week8.Equation.Core.csproj",
+        "projectPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation.Core\\Week8.Equation.Core.csproj",
         "packagesPath": "C:\\Users\\AntoniaSacchitella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Equation\\Week8.Equation.Core\\obj\\",
+        "outputPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AntoniaSacchitella\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Equation\\Week8.Equation.Test\\Week8.Equation.Test.csproj": {
+    "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation.Test\\Week8.Equation.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Equation\\Week8.Equation.Test\\Week8.Equation.Test.csproj",
+        "projectUniqueName": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation.Test\\Week8.Equation.Test.csproj",
         "projectName": "Week8.Equation.Test",
-        "projectPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Equation\\Week8.Equation.Test\\Week8.Equation.Test.csproj",
+        "projectPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation.Test\\Week8.Equation.Test.csproj",
         "packagesPath": "C:\\Users\\AntoniaSacchitella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Equation\\Week8.Equation.Test\\obj\\",
+        "outputPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AntoniaSacchitella\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Equation\\Week8.Equation.Core\\Week8.Equation.Core.csproj": {
-                "projectPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Equation\\Week8.Equation.Core\\Week8.Equation.Core.csproj"
+              "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation.Core\\Week8.Equation.Core.csproj": {
+                "projectPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation.Core\\Week8.Equation.Core.csproj"
               }
             }
           }

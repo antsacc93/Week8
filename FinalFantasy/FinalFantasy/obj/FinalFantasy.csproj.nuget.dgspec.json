@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation\\Week8.Equation.csproj": {}
+    "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\FinalFantasy\\FinalFantasy\\FinalFantasy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation\\Week8.Equation.csproj": {
+    "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\FinalFantasy\\FinalFantasy\\FinalFantasy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation\\Week8.Equation.csproj",
-        "projectName": "Week8.Equation",
-        "projectPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation\\Week8.Equation.csproj",
+        "projectUniqueName": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\FinalFantasy\\FinalFantasy\\FinalFantasy.csproj",
+        "projectName": "FinalFantasy",
+        "projectPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\FinalFantasy\\FinalFantasy\\FinalFantasy.csproj",
         "packagesPath": "C:\\Users\\AntoniaSacchitella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation\\obj\\",
+        "outputPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\FinalFantasy\\FinalFantasy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AntoniaSacchitella\\AppData\\Roaming\\NuGet\\NuGet.Config",

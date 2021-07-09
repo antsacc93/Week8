@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Equation\\Week8.Equation\\Week8.Equation.csproj",
+      "projectUniqueName": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation\\Week8.Equation.csproj",
       "projectName": "Week8.Equation",
-      "projectPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Equation\\Week8.Equation\\Week8.Equation.csproj",
+      "projectPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation\\Week8.Equation.csproj",
       "packagesPath": "C:\\Users\\AntoniaSacchitella\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Equation\\Week8.Equation\\obj\\",
+      "outputPath": "C:\\Users\\AntoniaSacchitella\\source\\repos\\Week8.Master\\Week8.Equation\\Week8.Equation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AntoniaSacchitella\\AppData\\Roaming\\NuGet\\NuGet.Config",
